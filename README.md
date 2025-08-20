@@ -21,6 +21,9 @@ cd cli-tic-tac-toe
 python tic_tac_toe.py
 ```
 
+🖥️ Example Gameplay
+
+```bash
 - | - | -
 - | - | -
 - | - | -
@@ -32,3 +35,4 @@ Enter a space between (1 - 9): 5
 - | - | -
 - | X | -
 - | - | -
+```
