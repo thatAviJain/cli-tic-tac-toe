@@ -21,7 +21,7 @@ cd cli-tic-tac-toe
 python tic_tac_toe.py
 ```
 
-🖥️ Example Gameplay
+## 🖥️ Example Gameplay
 
 ```bash
 - | - | -
